@@ -1,0 +1,6 @@
+usr/local/bin/nikito-qt usr/bin
+share/pixmaps/nikito32.xpm usr/share/pixmaps
+share/pixmaps/nikito16.xpm usr/share/pixmaps
+share/pixmaps/nikito128.png usr/share/pixmaps
+debian/nikito-qt.desktop usr/share/applications
+debian/nikito-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Nikito Core
+Comment=Nikito P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Nikito peer-to-peer Netzwerk
+Comment[fr]=Nikito, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Nikito, eşten eşe kriptografik sanal para birimi
+Exec=nikito-qt %u
+Terminal=false
+Type=Application
+Icon=nikito128
+MimeType=x-scheme-handler/nikito;
+Categories=Office;Finance;

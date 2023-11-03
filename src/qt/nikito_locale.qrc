@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/nikito_ar.qm</file>
+        <file alias="bg">locale/nikito_bg.qm</file>
+        <file alias="de">locale/nikito_de.qm</file>
+        <file alias="en">locale/nikito_en.qm</file>
+        <file alias="es">locale/nikito_es.qm</file>
+        <file alias="fi">locale/nikito_fi.qm</file>
+        <file alias="fr">locale/nikito_fr.qm</file>
+        <file alias="it">locale/nikito_it.qm</file>
+        <file alias="ja">locale/nikito_ja.qm</file>
+        <file alias="ko">locale/nikito_ko.qm</file>
+        <file alias="nl">locale/nikito_nl.qm</file>
+        <file alias="pl">locale/nikito_pl.qm</file>
+        <file alias="pt">locale/nikito_pt.qm</file>
+        <file alias="ro">locale/nikito_ro.qm</file>
+        <file alias="ru">locale/nikito_ru.qm</file>
+        <file alias="sk">locale/nikito_sk.qm</file>
+        <file alias="th">locale/nikito_th.qm</file>
+        <file alias="tr">locale/nikito_tr.qm</file>
+        <file alias="vi">locale/nikito_vi.qm</file>
+        <file alias="zh_CN">locale/nikito_zh_CN.qm</file>
+        <file alias="zh_TW">locale/nikito_zh_TW.qm</file>
+    </qresource>
+</RCC>
