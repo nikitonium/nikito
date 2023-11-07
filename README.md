@@ -1,4 +1,4 @@
-Nikito Core Latest v2.0.2.1
+Nikito Core Latest v2.0.2.3
 ===========================
 
 |CI|master|develop|
@@ -11,7 +11,7 @@ Nikito Core Latest v2.0.2.1
 License
 -------
 
-Maxeter Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Nikito Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -19,7 +19,7 @@ Development Process
 
 The `master` branch is meant to be stable. Development is done in separate branches.
 [Tags](https://github.com/nikitonium/nikito/tags) are created to indicate new official,
-stable release versions of Maxeter Core.
+stable release versions of Nikito Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
